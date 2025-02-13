@@ -28,7 +28,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)&nbsp;
-![Go](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=go)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
